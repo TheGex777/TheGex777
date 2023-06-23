@@ -15,7 +15,7 @@ Welcome to the zone.
 
 :seedling: Currently learning React Native.
 
-:zap: Rooted over 100 HacktheBox Machines.
+:zap: Rooted over 100 HacktheBox Machines. 
 
 
 
