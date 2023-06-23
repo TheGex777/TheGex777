@@ -4,7 +4,7 @@
 </div>
 
 
-  **Welcome to the zone.**
+  **Welcome to The Zone.**
 
 
 
