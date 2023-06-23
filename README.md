@@ -3,13 +3,14 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBxeWF3OWRkemsydHY5cjR0anJobHZydmozb3oyNmZiYXdkZWFnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif" width="100"/>
 </div>
 
-Welcome to the zone.
+
+  **Welcome to the zone.**
+
+
+
 ---
 
-
-
-
-:technologist: About Me:
+:technologist: **About Me**:
 
 :telescope: I'm a beginner developer, OSINT investigator, and CTF master all in one package.
 
@@ -18,7 +19,7 @@ Welcome to the zone.
 :zap: Rooted over 100 HacktheBox Machines. 
 
 
-
+---
 
  ### Operating Systems, Tools & Languages Used:
  <div>
@@ -40,7 +41,7 @@ Welcome to the zone.
  </div>
 
 
-##
+---
 
 
 
@@ -50,6 +51,8 @@ Welcome to the zone.
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheGex777&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGex777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TheGex777/TheGex777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
