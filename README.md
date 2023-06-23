@@ -11,12 +11,11 @@ Welcome to the zone.
 
 :technologist: About Me:
 
-:telescope: I'm a beginner developer, OSINT investigator, and hacker all in one package. I'm very familiar with Linux distros and FOSS.
+:telescope: I'm a beginner developer, OSINT investigator, and CTF master all in one package.
 
 :seedling: Currently learning React Native.
 
-
-
+:zap: Rooted over 100 HacktheBox Machines.
 
 
 
