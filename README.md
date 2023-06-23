@@ -11,7 +11,13 @@ Welcome to the zone.
 
 :technologist: About Me:
 
-I'm a developer, OSINT Investigator, and hacker all in one package.
+:telescope: I'm a developer, OSINT investigator, and hacker all in one package.
+
+:seedling: Currently learning React Native.
+
+
+
+
 
 
 
