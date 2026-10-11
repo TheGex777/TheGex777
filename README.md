@@ -6,9 +6,9 @@
 
 :technologist: **About Me**:
 
-:telescope: I'm a beginner developer, OSINT investigator, and CTF master all in one package.
+:telescope: Seasoned technologist with a passion for self-hosting, Linux operating systems, automation, and OSINT. 
 
-:seedling: Currently learning React Native.
+:seedling: Currently learning about AWS products to develop proper cloud architecture.
 
 :zap: Rooted over 100 HacktheBox Machines. 
 
